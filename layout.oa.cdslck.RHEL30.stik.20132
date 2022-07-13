@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      visitor
+HostName                       stik
+ProcessIdentifier              20132
+ProcessCreationTime_UTC        1654000870
+ProcessCreationTime_Readable   Tue May 31 15:41:10 2022 EEST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/visitor/work_CADN/cdb/Herasymenko_Diploma/Matrix/layout/layout.oa.cdslck
+TimeEditLocked                 Tue May 31 15:41:31 2022 EEST
